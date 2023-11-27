@@ -1,12 +1,12 @@
 ## 大牌平替
-收录工厂源头或小微品牌生产的大牌平替好物，价格美丽、质量不输大牌。欢迎推荐!
-为保障本清单的客观性，声明如下:
-* 不含广告成分，均为大众口碑推荐
-* 不带货，非利益相关
-* 不做淘宝客，无分销无外链推广
+* 收录工厂源头或小微品牌生产的大牌平替好物，价格美丽、质量不输大牌。欢迎推荐!
+* 为保障本清单的客观性，声明如下:
+    * 不含广告成分，均为大众口碑推荐
+    * 不带货，非利益相关
+    * 不做淘宝客，无分销无外链推广
 
 ### 优衣库平替
-|细分品类|商品链接|商家信息|价格|
+|细分品类|图片|商家信息及商品链接|价格|
 |--|--|--|--|
 |袜子|![](https://cbu01.alicdn.com/img/ibank/O1CN01jHq6B51HmRVG8Lov8_!!2210232140800-0-cib.200x200.jpg)<br>[新疆棉 秋冬款纯棉袜子男中筒防臭冬季加厚商务男士长袜全棉批发](https://detail.1688.com/offer/635441545049.html)|[深圳市起创服饰有限公司](https://shop2b00131f48204.1688.com/page/offerlist.htm)|4.49|
 |袜子|![](https://cbu01.alicdn.com/img/ibank/O1CN01FaAG301HmRjBKfRdV_!!2210232140800-0-cib.200x200.jpg)<br>[袜子男批发冬季纯棉无骨加厚中筒袜防臭男士保暖高筒袜全棉长袜潮](https://detail.1688.com/offer/737558590589.html)|[深圳市起创服饰有限公司](https://shop2b00131f48204.1688.com/page/offerlist.htm)|4.95|
@@ -22,3 +22,7 @@
 |保暖裤|![](https://cbu01.alicdn.com/img/ibank/O1CN01Xflm7E1JwdnpchmV2_!!3480121093-0-cib.200x200.jpg)<br>[秋冬女士无缝保暖秋裤蚕丝加厚护膝贴片保暖裤德绒打底裤羊毛批发](https://detail.1688.com/offer/680387326243.html)|[青岛泽瑞服装有限公司](https://shop1m85522n779x5.1688.com/page/offerlist.htm)|65.00|
 |睡衣|![](https://cbu01.alicdn.com/img/ibank/O1CN01kUf9ob1Jwdnh2laff_!!3480121093-0-cib.200x200.jpg)<br>[暖暖绒新款女士睡衣秋冬摇粒绒家居服保暖加厚冬季翻领睡衣套装](https://detail.1688.com/offer/741932732086.html)|[青岛泽瑞服装有限公司](https://shop1m85522n779x5.1688.com/page/offerlist.htm)|85.00|
 |保暖裤|![](https://cbu01.alicdn.com/img/ibank/O1CN01g84tR11JwdngA8ITg_!!3480121093-0-cib.200x200.jpg)<br>[男士秋裤蚕丝羊毛保暖裤黑色贴片加厚双面磨绒秋冬新款打底裤批发](https://detail.1688.com/offer/680385998726.html)|[青岛泽瑞服装有限公司](https://shop1m85522n779x5.1688.com/page/offerlist.htm)|73.00|
+|长袖|![](https://img.alicdn.com/bao/uploaded/i3/132691477/O1CN01pioCJS1MmVY39aWxC_!!0-item_pic.jpg_200x200.jpg)<br>[INS纯棉23韩国ins复古基础款纯色秋季打底衫内搭男女长袖T恤bf风](https://item.taobao.com/item.htm?id=603133486650)|[小尼力街头嘻哈潮流店](https://nelly.taobao.com)|22.00|
+|短袖|![](https://img.alicdn.com/bao/uploaded/i1/132691477/O1CN01aa0VKl1MmVdhHfpie_!!0-item_pic.jpg_200x200.jpg)<br>[小尼力bf美式重磅纯棉短袖t恤男女基础款纯色oversize打底白色TEE](https://item.taobao.com/item.htm?id=635224828301)|[小尼力街头嘻哈潮流店](https://nelly.taobao.com)|19.00|
+|外套|![](https://img.pddpic.com/mms-material-img/2023-08-17/ef9896c0-e76e-4bde-95b3-51a1d9b02fbd.jpeg?imageMogr2/thumbnail/200x%7CimageView2/2/w/500/q/50)<br>[森马集团棉致冲锋衣加绒加厚秋冬户外三合一登山潮牌男女同款夹克](https://mobile.yangkeduo.com/goods.html?goods_id=512655154023)|[棉致男士服饰旗舰店](https://mobile.yangkeduo.com/mall_page.html?mall_id=786246316)|79.00|
+|外套|![](https://img-2.pddpic.com/mms-material-img/2023-08-22/0fdbe216-bbb6-4a7f-9f3b-44fe3ce29617.jpeg?imageMogr2/thumbnail/200x%7CimageView2/2/w/500/q/50/format/webp)<br>[森马集团棉致抓绒衣珊瑚绒摇粒绒外套情侣男女同款秋冬休闲夹克](https://mobile.yangkeduo.com/goods.html?goods_id=517225469405)|[棉致男士服饰旗舰店](https://mobile.yangkeduo.com/mall_page.html?mall_id=786246316)|79.00|
