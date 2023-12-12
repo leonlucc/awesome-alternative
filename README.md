@@ -5,7 +5,7 @@
     * 不带货，非利益相关
     * 不做淘宝客，无分销无外链推广
 
-### 优衣库平替
+### 优衣库(成人)平替
 |细分品类|图片|商家信息及商品链接|价格|
 |--|--|--|--|
 |袜子|![](https://cbu01.alicdn.com/img/ibank/O1CN01jHq6B51HmRVG8Lov8_!!2210232140800-0-cib.200x200.jpg)<br>[新疆棉 秋冬款纯棉袜子男中筒防臭冬季加厚商务男士长袜全棉批发](https://detail.1688.com/offer/635441545049.html)|[深圳市起创服饰有限公司](https://shop2b00131f48204.1688.com/page/offerlist.htm)|4.49|
@@ -24,3 +24,10 @@
 |外套|![](https://img-2.pddpic.com/mms-material-img/2023-08-22/0fdbe216-bbb6-4a7f-9f3b-44fe3ce29617.jpeg?imageMogr2/thumbnail/200x%7CimageView2/2/w/500/q/50/format/webp)<br>[森马集团棉致抓绒衣珊瑚绒摇粒绒外套情侣男女同款秋冬休闲夹克](https://mobile.yangkeduo.com/goods.html?goods_id=517225469405)|[棉致男士服饰旗舰店](https://mobile.yangkeduo.com/mall_page.html?mall_id=786246316)|79.00|
 |秋衣秋裤|![](https://cbu01.alicdn.com/img/ibank/O1CN01LjAbaS1KEV8KZqa0G_!!2208085551132-0-cib.200x200.jpg)<br>[七匹狼男士内衣纯棉时尚圆领修身贴身秋冬打底秋衣秋裤套装礼盒装](https://detail.1688.com/offer/640608451035.html)|[上海格悦纺织品有限公司](https://shop55625o4m56i01.1688.com/page/offerlist.htm)|49.00|
 |保暖内衣|![](https://cbu01.alicdn.com/img/ibank/O1CN01y269ET1KEV5Slhr3d_!!2208085551132-0-cib.200x200.jpg)<br>[七匹狼中领内衣男士加绒加厚保暖内衣套装秋冬棉毛衫上衣裤子套装](https://detail.1688.com/offer/669494983252.html)|[上海格悦纺织品有限公司](https://shop55625o4m56i01.1688.com/page/offerlist.htm)|69.00|
+
+### 优衣库(儿童)平替
+|细分品类|图片|商家信息及商品链接|价格|
+|--|--|--|--|
+|保暖内衣|![](https://cbu01.alicdn.com/img/ibank/O1CN011jOZP024E19u1GGFd_!!1007037358-0-cib.200x200.jpg)<br>[q21德绒保暖裤儿童内穿秋冬加绒秋裤男女童加厚打底裤宝宝加绒裤](https://detail.1688.com/offer/731330908618.html)|[青岛颖超服装有限公司](https://qdyingchao.1688.com)|22.00|
+|保暖内衣|![](https://cbu01.alicdn.com/img/ibank/O1CN01uDJ7nL24E17VqANsT_!!1007037358-0-cib.200x200.jpg)<br>[儿童德绒保暖内衣套装男女童加绒家居服宝宝无痕儿童秋衣秋裤套装](https://detail.1688.com/offer/734345143509.html)|[青岛颖超服装有限公司](https://qdyingchao.1688.com)|50.50|
+
