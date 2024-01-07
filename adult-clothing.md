@@ -1,21 +1,3 @@
-## 大牌平替
-* 收录工厂源头或小微品牌生产的大牌平替好物，价格美丽、质量不输大牌。目前包含如下几个系列:
-    * [`成人服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/adult-clothing.md)（优衣库平替）
-    * [`儿童服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/children-clothing.md)（优衣库平替）
-    * [`居家日用系列`](https://github.com/leonlucc/awesome-alternative/blob/master/daily-use.md)（无印良品平替）
-    * [`其他`](https://github.com/leonlucc/awesome-alternative/blob/master/other.md)
-* 关于本清单规则的一些说明:
-    * **口碑第一**：大众口碑推荐，不含广告成分，来源为Twitter(X)、知乎、小红书等
-    * **非利益相关**：不带货、无分销、无外链推广
-    * **收录规则**：如果推荐单品则直接收录，如果推荐商家则选择店铺销量最高的1-3件商品
-* 推荐来源特别鸣谢
-    * Twitter(X)
-	    * [plantegg](https://twitter.com/plantegg)
-        * [干物纯今天吃什么](https://twitter.com/zty0826)
-        * [Frey轰轰](https://twitter.com/HiFreyy)
-    * 知乎问答
-        * [1688平台上面有哪些值得推荐的店铺？](https://www.zhihu.com/question/350848318)
-
 ### 成人服饰系列
 |细分类目|商品图片及链接|商家链接|价格|
 |--|--|--|--|
@@ -46,26 +28,3 @@
 |T恤|![](https://cbu01.alicdn.com/img/ibank/O1CN01Bo8mDT1DfKz15njLN_!!2212611550243-0-cib.200x200.jpg)<br>[三本针 300g重磅纯白色长袖t恤女纯棉简约厚实不透内搭打底衫秋冬](https://detail.1688.com/offer/668938925265.html)|[宁波叁言服饰有限公司实力供应商](https://shop0rn1062513224.1688.com)|46.00|
 |T恤|![](https://cbu01.alicdn.com/img/ibank/O1CN01V1FMrh1DfL41t73kq_!!2212611550243-0-cib.200x200.jpg)<br>[三本针300g重磅厚实碳素磨毛不透纯棉白色正肩内搭t恤圆领短袖男](https://detail.1688.com/offer/656806127309.html)|[宁波叁言服饰有限公司实力供应商](https://shop0rn1062513224.1688.com)|39.90|
 |T恤|![](https://img.alicdn.com/bao/uploaded/https://picasso.alicdn.com/imgextra/O1CNA1r16pMV1ss4PYKU6MI_!!1820225821-0-psf.jpg_200x200.jpg)<br>[4件】男装纯棉潮流男士短袖T恤纯色半袖上衣服体桖夏季打底衫长袖](https://detail.tmall.com/item.htm?id=641298856458)|[hkrut旗舰店](https://hkrut.tmall.com)|59.00|
-
-### 儿童服饰系列
-|细分类目|商品图片及链接|商家链接|价格|
-|--|--|--|--|
-|连身衣爬衣|![](https://cbu01.alicdn.com/img/ibank/O1CN01670CoG1XNkDMnszP7_!!2699092912-0-cib.200x200.jpg)<br>[新生婴儿冬季棉服男女宝宝冬装超萌初生宝宝连体衣套装加厚外衣](https://detail.1688.com/offer/735426351518.html)|[河南浩欣服饰有限公司](https://henanhaoxin.1688.com)|63.00|
-|连身衣爬衣|![](https://cbu01.alicdn.com/img/ibank/O1CN01VIg7Fg1XNk5XVjitT_!!2699092912-0-cib.200x200.jpg)<br>[宝宝新款纯棉婴幼儿春秋保暖两用档连体衣男女爬服衣服](https://detail.1688.com/offer/575331750580.html)|[河南浩欣服饰有限公司](https://henanhaoxin.1688.com)|33.00|
-|裤子|![](https://cbu01.alicdn.com/img/ibank/O1CN011jOZP024E19u1GGFd_!!1007037358-0-cib.200x200.jpg)<br>[q21德绒保暖裤儿童内穿秋冬加绒秋裤男女童加厚打底裤宝宝加绒裤](https://detail.1688.com/offer/731330908618.html)|[青岛颖超服装有限公司](https://qdyingchao.1688.com)|22.00|
-|内衣套装|![](https://cbu01.alicdn.com/img/ibank/O1CN01uDJ7nL24E17VqANsT_!!1007037358-0-cib.200x200.jpg)<br>[儿童德绒保暖内衣套装男女童加绒家居服宝宝无痕儿童秋衣秋裤套装](https://detail.1688.com/offer/734345143509.html)|[青岛颖超服装有限公司](https://qdyingchao.1688.com)|50.50|
-
-### 居家日用系列
-|细分类目|商品图片及链接|商家链接|价格|
-|--|--|--|--|
-|纸巾架|![](https://cbu01.alicdn.com/img/ibank/O1CN01fKzMNy2Kl1JerdfVH_!!1688029596-0-cib.200x200.jpg)<br>[厨房纸巾架日式榉木立式木质卷纸架子收纳架保鲜膜懒人抹布置物架](https://detail.1688.com/offer/45454653699.html)|[烟台朴色家居有限公司](https://puselife.1688.com)|11.90|
-|眼罩|![](https://cbu01.alicdn.com/img/ibank/3946986533_1787633015.200x200.jpg)<br>[午休眼罩无印纯棉良品午睡眼罩透气遮光飞机旅行护眼眼罩一件代发](https://detail.1688.com/offer/522594120958.html)|[南通素艺家居实力供应商](https://shop1443104057113.1688.com)|12.00|
-|指甲钳|![](https://cbu01.alicdn.com/img/ibank/O1CN017SIm671Ggf90VnIS8_!!2212752550652-0-cib.200x200.jpg)<br>[美妆工具指甲锉指甲剪套装不锈钢单个指甲刀防飞溅指甲钳修脚工具](https://detail.1688.com/offer/658253846759.html)|[阳江市亿合公五金制品有限公司](https://shop81n0533913894.1688.com)|5.20|
-|指甲钳|![](https://cbu01.alicdn.com/img/ibank/O1CN01p8TJnr1Ggewm5nnFx_!!2212752550652-0-cib.200x200.jpg)<br>[厂家直供亚马逊防飞溅不锈钢指甲剪套装便捷指甲刀大号指甲钳套装](https://detail.1688.com/offer/658581211233.html)|[阳江市亿合公五金制品有限公司](https://shop81n0533913894.1688.com)|4.50|
-|开瓶器|![](https://cbu01.alicdn.com/img/ibank/O1CN010UuhPy2Kl1OOpg3ne_!!1688029596-0-cib.200x200.jpg)<br>[创意瓶起子木质磁铁饮料啤酒开瓶器可定logo家用便携式磁吸冰箱贴](https://detail.1688.com/offer/671917459334.html)|[烟台朴色家居有限公司](https://puselife.1688.com)|3.80|
-|床品套件|![](https://cbu01.alicdn.com/img/ibank/7532402338_1787633015.200x200.jpg)<br>[无印西川裸睡良品天竺棉四件套条纹针织棉4件套全棉床上床笠床单](https://detail.1688.com/offer/522590080915.html)|[南通素艺家居实力供应商](https://shop1443104057113.1688.com)|130.00|
-
-### 其他
-|细分类目|商品图片及链接|商家链接|价格|
-|--|--|--|--|
-|滤网|![](https://cbu01.alicdn.com/img/ibank/O1CN016w6JWi1OCRtcy1VWt_!!2492481669-0-cib.200x200.jpg)<br>[适用小米米家空气净化器加湿器滤网4Lite/2S/3/Pro H/F1/4pro滤芯](https://detail.1688.com/offer/712432576243.html)|[河北联润汽车配件有限公司](https://lianrun.1688.com)|16.00|
