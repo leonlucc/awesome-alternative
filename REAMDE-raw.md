@@ -1,5 +1,12 @@
-## 大牌平替
-* 收录工厂源头或小微品牌生产的大牌平替好物，价格美丽、质量不输大牌。目前包含如下几个系列:
+<h1 align="center">
+口碑平替
+</h1>
+<p align="center">
+  <a href="https://www.koubeipingti.com">网页版</a>
+</p>
+
+## 简介
+* 收录工厂源头或小微品牌生产的口碑平替好物，性价比突出、质量不输大牌。目前包含如下几个系列:
     * [`成人服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/adult-clothing.md)（优衣库平替）
     * [`儿童服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/children-clothing.md)（优衣库平替）
     * [`居家日用系列`](https://github.com/leonlucc/awesome-alternative/blob/master/daily-use.md)（无印良品平替）
@@ -13,5 +20,7 @@
 	    * [plantegg](https://twitter.com/plantegg)
         * [干物纯今天吃什么](https://twitter.com/zty0826)
         * [Frey轰轰](https://twitter.com/HiFreyy)
-    * 知乎问答
+    * 知乎
         * [1688平台上面有哪些值得推荐的店铺？](https://www.zhihu.com/question/350848318)
+
+## 清单
