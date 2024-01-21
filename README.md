@@ -22,13 +22,17 @@
         * [Frey轰轰](https://twitter.com/HiFreyy)
     * 知乎
         * [1688平台上面有哪些值得推荐的店铺？](https://www.zhihu.com/question/350848318)
-
+* 交流群
+    * telegram: https://t.me/koubeipingti
 ## 清单
+
 ### 成人服饰系列
 |细分类目|商品图片及链接|商家链接|价格|
 |--|--|--|--|
 |袜子|![](https://cbu01.alicdn.com/img/ibank/O1CN01jHq6B51HmRVG8Lov8_!!2210232140800-0-cib.200x200.jpg)<br>[新疆棉 秋冬款纯棉袜子男中筒防臭冬季加厚商务男士长袜全棉批发](https://detail.1688.com/offer/635441545049.html)|[深圳市起创服饰有限公司](https://shop2b00131f48204.1688.com)|4.49|
 |袜子|![](https://cbu01.alicdn.com/img/ibank/O1CN01o8geFX1HmRiPnhkkp_!!2210232140800-0-cib.200x200.jpg)<br>[袜子女纯棉中筒袜批发春秋季女袜抗菌防臭无骨月子袜秋冬纯色长袜](https://detail.1688.com/offer/730614546017.html)|[深圳市起创服饰有限公司](https://shop2b00131f48204.1688.com)|4.53|
+|袜子|![](https://cbu01.alicdn.com/img/ibank/O1CN01FaAG301HmRjBKfRdV_!!2210232140800-0-cib.200x200.jpg)<br>[袜子男批发冬季纯棉无骨加厚中筒袜防臭男士保暖高筒袜全棉长袜潮](https://detail.1688.com/offer/737558590589.html)|[深圳市起创服饰有限公司](https://shop2b00131f48204.1688.com)|4.95|
+|袜子|![](https://cbu01.alicdn.com/img/ibank/O1CN01078moP1HmRcQVYMcm_!!2210232140800-0-cib.200x200.jpg)<br>[新疆棉 袜子男纯棉短袜夏全棉批发男士船袜防臭吸汗中筒袜夏季薄](https://detail.1688.com/offer/638164157374.html)|[深圳市起创服饰有限公司](https://shop2b00131f48204.1688.com)|4.05|
 |衬衫|![](https://cbu01.alicdn.com/img/ibank/10427577542_1157220614.200x200.jpg)<br>[【言双】衬衫女棉感仿麂皮2024春季新款廓形长袖洋气复古衬衣5623](https://detail.1688.com/offer/587118016571.html)|[杭州言双服饰有限公司](https://shijianlvtu.1688.com)|43.90|
 |羽绒服|![](https://cbu01.alicdn.com/img/ibank/O1CN01V4b85F2CPwNI2bw3s_!!2622588467-0-cib.200x200.jpg)<br>[言双 白鸭绒无领羽绒服女2023冬季新款轻薄菱格短款保暖外套80662](https://detail.1688.com/offer/742689365697.html)|[杭州言双服饰有限公司](https://shijianlvtu.1688.com)|198.00|
 |睡衣套装|![](https://cbu01.alicdn.com/img/ibank/O1CN01kUf9ob1Jwdnh2laff_!!3480121093-0-cib.200x200.jpg)<br>[暖暖绒新款女士睡衣秋冬摇粒绒家居服保暖加厚冬季翻领睡衣套装](https://detail.1688.com/offer/741932732086.html)|[青岛泽瑞服装有限公司](https://shop1m85522n779x5.1688.com)|85.00|
@@ -40,6 +44,7 @@
 |卫衣绒衫|![](https://cbu01.alicdn.com/img/ibank/O1CN01XlBHIC1h3GfS8cGmQ_!!2869234221-0-cib.200x200.jpg)<br>[秋冬加厚加绒衣服女小香风外套保暖摇粒绒开衫外穿长袖上衣休闲衫](https://detail.1688.com/offer/734879869332.html)|[浙江旺季服饰有限公司](https://zhejiangwangji.1688.com)|48.00|
 |半身裙|![](https://cbu01.alicdn.com/img/ibank/O1CN018RwqsZ2CPwNVmVzfj_!!2622588467-0-cib.200x200.jpg)<br>[言双 秋冬丝绒加厚半身裙女2023冬季新款高腰时髦垂感A字裙9718](https://detail.1688.com/offer/743858176438.html)|[杭州言双服饰有限公司](https://shijianlvtu.1688.com)|59.00|
 |冲锋衣|![](https://img.pddpic.com/mms-material-img/2023-08-17/ef9896c0-e76e-4bde-95b3-51a1d9b02fbd.jpeg?imageMogr2/thumbnail/200x%7CimageView2/2/w/500/q/50)<br>[森马集团棉致冲锋衣加绒加厚秋冬户外三合一登山潮牌男女同款夹克](https://mobile.yangkeduo.com/goods.html?goods_id=512655154023)|[棉致男士服饰旗舰店](https://mobile.yangkeduo.com/mall_page.html?mall_id=786246316)|79.00|
+|内裤|![](https://cbu01.alicdn.com/img/ibank/O1CN01xBJtEL1V3vsc1Elnq_!!991692598-0-cib.200x200.jpg)<br>[冰丝内裤男5A抗菌桑蚕丝男士内裤冰凉感空调夏季内裤男工厂批发](https://detail.1688.com/offer/710577673569.html)|[义乌市浩裕服饰有限公司](https://haoyu2015.1688.com)|6.77|
 |内裤|![](https://cbu01.alicdn.com/img/ibank/O1CN0162J9Sp1V3vqhcP2d5_!!991692598-0-cib.200x200.jpg)<br>[男士纯棉内裤抗菌里裆透气男生纯色系青年男士中腰平角裤批发](https://detail.1688.com/offer/735173104014.html)|[义乌市浩裕服饰有限公司](https://haoyu2015.1688.com)|6.53|
 |内裤|![](https://cbu01.alicdn.com/img/ibank/O1CN01TaObNY1V3vs5N2fk4_!!991692598-0-cib.200x200.jpg)<br>[7A抗菌 60S莫代尔中腰女士内裤透气桑蚕丝抑菌女士三角裤批发](https://detail.1688.com/offer/744997792049.html)|[义乌市浩裕服饰有限公司](https://haoyu2015.1688.com)|6.14|
 |保暖裤|![](https://cbu01.alicdn.com/img/ibank/O1CN01g84tR11JwdngA8ITg_!!3480121093-0-cib.200x200.jpg)<br>[男士秋裤蚕丝羊毛保暖裤黑色贴片加厚双面磨绒秋冬新款打底裤批发](https://detail.1688.com/offer/680385998726.html)|[青岛泽瑞服装有限公司](https://shop1m85522n779x5.1688.com)|73.00|
@@ -72,6 +77,7 @@
 |指甲钳|![](https://cbu01.alicdn.com/img/ibank/O1CN01p8TJnr1Ggewm5nnFx_!!2212752550652-0-cib.200x200.jpg)<br>[厂家直供亚马逊防飞溅不锈钢指甲剪套装便捷指甲刀大号指甲钳套装](https://detail.1688.com/offer/658581211233.html)|[阳江市亿合公五金制品有限公司](https://shop81n0533913894.1688.com)|4.50|
 |开瓶器|![](https://cbu01.alicdn.com/img/ibank/O1CN010UuhPy2Kl1OOpg3ne_!!1688029596-0-cib.200x200.jpg)<br>[创意瓶起子木质磁铁饮料啤酒开瓶器可定logo家用便携式磁吸冰箱贴](https://detail.1688.com/offer/671917459334.html)|[烟台朴色家居有限公司](https://puselife.1688.com)|3.80|
 |床品套件|![](https://cbu01.alicdn.com/img/ibank/7532402338_1787633015.200x200.jpg)<br>[无印西川裸睡良品天竺棉四件套条纹针织棉4件套全棉床上床笠床单](https://detail.1688.com/offer/522590080915.html)|[南通素艺家居实力供应商](https://shop1443104057113.1688.com)|130.00|
+|厨房剪刀|![](https://cbu01.alicdn.com/img/ibank/O1CN01Uw2ZYR1N9PiCHoOcG_!!2211483651527-0-cib.200x200.jpg)<br>[剪骨头专用厨房剪刀 强力鸡骨剪 多功能剪肉骨杀鱼大剪刀现货批发](https://detail.1688.com/offer/657146732358.html)|[阳江市品恒工贸有限公司实力供应商](https://pinheng.1688.com)|9.48|
 
 ### 其他
 |细分类目|商品图片及链接|商家链接|价格|

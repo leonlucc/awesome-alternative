@@ -22,5 +22,6 @@
         * [Frey轰轰](https://twitter.com/HiFreyy)
     * 知乎
         * [1688平台上面有哪些值得推荐的店铺？](https://www.zhihu.com/question/350848318)
-
+* 交流群
+    * telegram: https://t.me/koubeipingti
 ## 清单
