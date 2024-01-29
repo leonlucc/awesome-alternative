@@ -10,6 +10,7 @@
     * [`成人服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/adult-clothing.md)（优衣库平替）
     * [`儿童服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/children-clothing.md)（优衣库平替）
     * [`居家日用系列`](https://github.com/leonlucc/awesome-alternative/blob/master/daily-use.md)（无印良品平替）
+    * [`箱包系列`](https://github.com/leonlucc/awesome-alternative/blob/master/bag-case.md)（无印良品平替）
     * [`其他`](https://github.com/leonlucc/awesome-alternative/blob/master/other.md)
 * 关于本清单规则的一些说明:
     * **口碑第一**：大众口碑推荐，不含广告成分，来源为Twitter(X)、知乎、小红书等
@@ -78,6 +79,17 @@
 |开瓶器|![](https://cbu01.alicdn.com/img/ibank/O1CN010UuhPy2Kl1OOpg3ne_!!1688029596-0-cib.200x200.jpg)<br>[创意瓶起子木质磁铁饮料啤酒开瓶器可定logo家用便携式磁吸冰箱贴](https://detail.1688.com/offer/671917459334.html)|[烟台朴色家居有限公司](https://puselife.1688.com)|3.80|
 |床品套件|![](https://cbu01.alicdn.com/img/ibank/7532402338_1787633015.200x200.jpg)<br>[无印西川裸睡良品天竺棉四件套条纹针织棉4件套全棉床上床笠床单](https://detail.1688.com/offer/522590080915.html)|[南通素艺家居实力供应商](https://shop1443104057113.1688.com)|130.00|
 |厨房剪刀|![](https://cbu01.alicdn.com/img/ibank/O1CN01Uw2ZYR1N9PiCHoOcG_!!2211483651527-0-cib.200x200.jpg)<br>[剪骨头专用厨房剪刀 强力鸡骨剪 多功能剪肉骨杀鱼大剪刀现货批发](https://detail.1688.com/offer/657146732358.html)|[阳江市品恒工贸有限公司实力供应商](https://pinheng.1688.com)|9.48|
+
+### 箱包系列
+|细分类目|商品图片及链接|商家链接|价格|
+|--|--|--|--|
+|旅行包|![](https://cbu01.alicdn.com/img/ibank/O1CN01u8v7jP1NhlOZAmZ8g_!!2353591602-0-cib.200x200.jpg)<br>[跨境折叠包超轻便携收纳包旅行包 防水双肩包户外运动背包皮肤包](https://detail.1688.com/offer/590183688969.html)|[保定瑞威箱包制造有限公司](https://huwaijianfeng1.1688.com)|6.50|
+|女士包|![](https://cbu01.alicdn.com/img/ibank/O1CN01sK71nH2EmUvCDe1g2_!!2206692288787-0-cib.200x200.jpg)<br>[真皮女包头层牛皮水桶包菜篮子包包高级感单肩包小众设计包腋下包](https://detail.1688.com/offer/630426443002.html)|[广州盖特皮具有限公司](https://shop7h53121d77196.1688.com)|126.00|
+|女士包|![](https://cbu01.alicdn.com/img/ibank/O1CN01csfq3T2GLb6ii7nLC_!!2208280808999-0-cib.200x200.jpg)<br>[包包女2023秋冬新款小众菜篮子手提包高级感时尚潮流手提斜挎包包](https://detail.1688.com/offer/747485127808.html)|[广州湘露皮具有限公司](https://xianglupiju.1688.com)|140.00|
+|双肩背包|![](https://cbu01.alicdn.com/img/ibank/21339084617_604889811.200x200.jpg)<br>[双肩包时尚女书包休闲电脑包户外背包大学生双肩背包男款大容量](https://detail.1688.com/offer/618703370826.html)|[河北聚有量箱包制造有限公司](https://xingyun668.1688.com)|28.00|
+|双肩背包|![](https://cbu01.alicdn.com/img/ibank/O1CN01z3RQPX1NO4FEwyS4M_!!955051559-0-cib.200x200.jpg)<br>[金圣斯新款箱包大容量双肩背包USB充电脑背包商务通勤双肩包代发](https://detail.1688.com/offer/645319502206.html)|[广州市金圣斯箱包科技有限公司](https://kingsonswork.1688.com)|113.00|
+|双肩背包|![](https://cbu01.alicdn.com/img/ibank/O1CN01L8zzi51MhTT2VQeQW_!!3251141466-0-cib.200x200.jpg)<br>[跨境新款旅行双肩包女大容量多功能行李包中学生书包旅游背包男包](https://detail.1688.com/offer/715716379244.html)|[广州市途外皮具有限公司](https://gztuwai.1688.com)|80.00|
+|双肩背包|![](https://cbu01.alicdn.com/img/ibank/O1CN01IWyl8A1XgWIUsLABa_!!1885522953-0-cib.200x200.jpg)<br>[北极猎人出差商务版双肩包男士轻便电脑包大容量背包旅行双肩背包](https://detail.1688.com/offer/658995044107.html)|[广州市头狼皮具有限公司](https://bjlr199.1688.com)|79.00|
 
 ### 其他
 |细分类目|商品图片及链接|商家链接|价格|
