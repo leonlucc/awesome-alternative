@@ -10,7 +10,7 @@
     * [`成人服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/adult-clothing.md)（优衣库平替）
     * [`儿童服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/children-clothing.md)（优衣库平替）
     * [`居家日用系列`](https://github.com/leonlucc/awesome-alternative/blob/master/daily-use.md)（无印良品平替）
-    * [`箱包系列`](https://github.com/leonlucc/awesome-alternative/blob/master/bag-case.md)（无印良品平替）
+    * [`箱包系列`](https://github.com/leonlucc/awesome-alternative/blob/master/bag-case.md)（新秀丽平替）
     * [`其他`](https://github.com/leonlucc/awesome-alternative/blob/master/other.md)
 * 关于本清单规则的一些说明:
     * **口碑第一**：大众口碑推荐，不含广告成分，来源为Twitter(X)、知乎、小红书等
@@ -59,7 +59,6 @@
 |T恤|![](https://cbu01.alicdn.com/img/ibank/O1CN019bDJvT1DfKyBOcY0v_!!2212611550243-0-cib.200x200.jpg)<br>[三本针 300g重磅纯白色长袖T恤男纯棉简约厚实不透内搭打底衫春秋](https://detail.1688.com/offer/655588184960.html)|[宁波叁言服饰有限公司实力供应商](https://shop0rn1062513224.1688.com)|46.00|
 |T恤|![](https://cbu01.alicdn.com/img/ibank/O1CN01Bo8mDT1DfKz15njLN_!!2212611550243-0-cib.200x200.jpg)<br>[三本针 300g重磅纯白色长袖t恤女纯棉简约厚实不透内搭打底衫秋冬](https://detail.1688.com/offer/668938925265.html)|[宁波叁言服饰有限公司实力供应商](https://shop0rn1062513224.1688.com)|46.00|
 |T恤|![](https://cbu01.alicdn.com/img/ibank/O1CN01V1FMrh1DfL41t73kq_!!2212611550243-0-cib.200x200.jpg)<br>[三本针300g重磅厚实碳素磨毛不透纯棉白色正肩内搭t恤圆领短袖男](https://detail.1688.com/offer/656806127309.html)|[宁波叁言服饰有限公司实力供应商](https://shop0rn1062513224.1688.com)|39.90|
-|T恤|![](https://img.alicdn.com/bao/uploaded/https://picasso.alicdn.com/imgextra/O1CNA1r16pMV1ss4PYKU6MI_!!1820225821-0-psf.jpg_200x200.jpg)<br>[4件】男装纯棉潮流男士短袖T恤纯色半袖上衣服体桖夏季打底衫长袖](https://detail.tmall.com/item.htm?id=641298856458)|[hkrut旗舰店](https://hkrut.tmall.com)|59.00|
 
 ### 儿童服饰系列
 |细分类目|商品图片及链接|商家链接|价格|
@@ -96,3 +95,4 @@
 |--|--|--|--|
 |眼镜片|![](https://cbu01.alicdn.com/img/ibank/O1CN01GiSxkQ2KwvhavUpRJ_!!2828959622-0-cib.200x200.jpg)<br>[蔡司镜片 蔡司智锐 1.50/1.60/1.67/1.74 智锐单光 防蓝光 铂金膜](https://detail.1688.com/offer/671049533903.html)|[深圳市飞信眼镜有限公司](https://feixinglasses.1688.com)|203.00|
 |滤网|![](https://cbu01.alicdn.com/img/ibank/O1CN016w6JWi1OCRtcy1VWt_!!2492481669-0-cib.200x200.jpg)<br>[适用小米米家空气净化器加湿器滤网4Lite/2S/3/Pro H/F1/4pro滤芯](https://detail.1688.com/offer/712432576243.html)|[河北联润汽车配件有限公司](https://lianrun.1688.com)|16.00|
+|仿真动物玩偶|![](https://cbu01.alicdn.com/img/ibank/9630543554_1464955482.200x200.jpg)<br>[仿真动物模型野生实心塑胶长颈鹿大象犀牛棕熊老虎狮子豹马玩具](https://detail.1688.com/offer/570692992379.html)|[汕头市益鑫晟玩具有限公司实力供应商](https://shop1466096643021.1688.com)|3.47|

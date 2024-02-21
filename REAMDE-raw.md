@@ -10,7 +10,7 @@
     * [`成人服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/adult-clothing.md)（优衣库平替）
     * [`儿童服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/children-clothing.md)（优衣库平替）
     * [`居家日用系列`](https://github.com/leonlucc/awesome-alternative/blob/master/daily-use.md)（无印良品平替）
-    * [`箱包系列`](https://github.com/leonlucc/awesome-alternative/blob/master/bag-case.md)（无印良品平替）
+    * [`箱包系列`](https://github.com/leonlucc/awesome-alternative/blob/master/bag-case.md)（新秀丽平替）
     * [`其他`](https://github.com/leonlucc/awesome-alternative/blob/master/other.md)
 * 关于本清单规则的一些说明:
     * **口碑第一**：大众口碑推荐，不含广告成分，来源为Twitter(X)、知乎、小红书等
