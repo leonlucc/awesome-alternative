@@ -7,11 +7,11 @@
 
 ## 简介
 * 收录工厂源头或小微品牌生产的口碑平替好物，性价比突出、质量不输大牌。目前包含如下几个系列:
-    * [`成人服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/adult-clothing.md)（优衣库平替）
-    * [`儿童服饰系列`](https://github.com/leonlucc/awesome-alternative/blob/master/children-clothing.md)（优衣库平替）
-    * [`居家日用系列`](https://github.com/leonlucc/awesome-alternative/blob/master/daily-use.md)（无印良品平替）
-    * [`箱包系列`](https://github.com/leonlucc/awesome-alternative/blob/master/bag-case.md)（新秀丽平替）
-    * [`其他`](https://github.com/leonlucc/awesome-alternative/blob/master/other.md)
+    * `成人服饰系列`（优衣库平替）
+    * `儿童服饰系列`（优衣库平替）
+    * `居家日用系列`（无印良品平替）
+    * `箱包系列`（新秀丽平替）
+    * `其他`
 * 关于本清单规则的一些说明:
     * **口碑第一**：大众口碑推荐，不含广告成分，来源为Twitter(X)、知乎、小红书等
     * **非利益相关**：不带货、无分销、无外链推广
