@@ -30,6 +30,7 @@
 ### 成人服饰系列
 |细分类目|商品图片及链接|商家链接|价格|
 |--|--|--|--|
+|袜子|![](https://cbu01.alicdn.com/img/ibank/O1CN01jNmkSN291GALksJmC_!!2212863558007-0-cib.200x200.jpg)<br>[袜子女春夏薄款短袜纯棉女士按摩底网眼透气夏季防臭全棉纯色船袜](https://detail.1688.com/offer/718106964265.html)|[诸暨市佳来针织厂实力供应商](https://shop7x679907776k0.1688.com)|3.8|
 |袜子|![](https://cbu01.alicdn.com/img/ibank/O1CN01jHq6B51HmRVG8Lov8_!!2210232140800-0-cib.200x200.jpg)<br>[新疆棉 秋冬款纯棉袜子男中筒防臭冬季加厚商务男士长袜全棉批发](https://detail.1688.com/offer/635441545049.html)|[深圳市起创服饰有限公司](https://shop2b00131f48204.1688.com)|4.49|
 |袜子|![](https://cbu01.alicdn.com/img/ibank/O1CN01o8geFX1HmRiPnhkkp_!!2210232140800-0-cib.200x200.jpg)<br>[袜子女纯棉中筒袜批发春秋季女袜抗菌防臭无骨月子袜秋冬纯色长袜](https://detail.1688.com/offer/730614546017.html)|[深圳市起创服饰有限公司](https://shop2b00131f48204.1688.com)|4.53|
 |袜子|![](https://cbu01.alicdn.com/img/ibank/O1CN01FaAG301HmRjBKfRdV_!!2210232140800-0-cib.200x200.jpg)<br>[袜子男批发冬季纯棉无骨加厚中筒袜防臭男士保暖高筒袜全棉长袜潮](https://detail.1688.com/offer/737558590589.html)|[深圳市起创服饰有限公司](https://shop2b00131f48204.1688.com)|4.95|
@@ -40,9 +41,11 @@
 |睡衣套装|![](https://cbu01.alicdn.com/img/ibank/O1CN01kUf9ob1Jwdnh2laff_!!3480121093-0-cib.200x200.jpg)<br>[暖暖绒新款女士睡衣秋冬摇粒绒家居服保暖加厚冬季翻领睡衣套装](https://detail.1688.com/offer/741932732086.html)|[青岛泽瑞服装有限公司](https://shop1m85522n779x5.1688.com)|85.0|
 |睡衣套装|![](https://cbu01.alicdn.com/img/ibank/O1CN01jQawle247bZtiJIfy_!!996847344-0-cib.200x200.jpg)<br>[杜小宅秋冬睡衣长袖长裤套装情侣家居服女珊瑚绒卡通两件套可外穿](https://detail.1688.com/offer/736318668149.html)|[义乌市楠涛服饰有限公司](https://nantaoli.1688.com)|78.9|
 |毛针织衫|![](https://cbu01.alicdn.com/img/ibank/O1CN01iQN7dP2CPwNBmOhYy_!!2622588467-0-cib.200x200.jpg)<br>[言双 半高领针织衫女2023秋冬新款袖口设计感气质修身打底衫M1175](https://detail.1688.com/offer/743046534426.html)|[杭州言双服饰有限公司](https://shijianlvtu.1688.com)|48.0|
+|文胸|![](https://cbu01.alicdn.com/img/ibank/O1CN01XzTKEJ28tTJzUtxrO_!!3472937990-0-cib.200x200.jpg)<br>[素肌外扩无痕果冻内衣女薄小胸聚拢调整型大胸显小文胸套装无钢圈](https://detail.1688.com/offer/629838719253.html)|[汕头市爱尔美制衣有限公司](https://aiermeigarment.1688.com)|35.8|
+|文胸|![](https://cbu01.alicdn.com/img/ibank/O1CN01k8duZo28tTTyDIExR_!!3472937990-0-cib.200x200.jpg)<br>[固定杯无钢圈果冻无痕内衣女小胸聚拢显大上托舒适外扩调整型文胸](https://detail.1688.com/offer/761764780005.html)|[汕头市爱尔美制衣有限公司](https://aiermeigarment.1688.com)|38.0|
 |抓绒衣|![](https://img-2.pddpic.com/mms-material-img/2023-08-22/0fdbe216-bbb6-4a7f-9f3b-44fe3ce29617.jpeg?imageMogr2/thumbnail/200x%7CimageView2/2/w/500/q/50/format/webp)<br>[森马集团棉致抓绒衣珊瑚绒摇粒绒外套情侣男女同款秋冬休闲夹克](https://mobile.yangkeduo.com/goods.html?goods_id=517225469405)|[棉致男士服饰旗舰店](https://mobile.yangkeduo.com/mall_page.html?mall_id=786246316)|79.0|
 |抓绒衣|![](https://cbu01.alicdn.com/img/ibank/O1CN01heUO0S247bapBosL8_!!996847344-0-cib.200x200.jpg)<br>[户外秋冬双面绒衣女款立领加绒保暖羊羔绒摇粒绒卫衣外套女款批发](https://detail.1688.com/offer/742361362799.html)|[义乌市楠涛服饰有限公司](https://nantaoli.1688.com)|59.9|
-|户外风衣|![](https://cbu01.alicdn.com/img/ibank/O1CN01tyknA51Ff07Cbt47t_!!2212703530513-0-cib.200x200.jpg)<br>[大码女装2024新款防晒衣女夏季防紫外线针织防晒服男皮肤衣外套](https://detail.1688.com/offer/769471747458.html)|[特西尔（泉州）运动用品有限公司](https://trysilqz.1688.com)|35.0|
+|户外风衣|![](https://cbu01.alicdn.com/img/ibank/2020/590/098/14743890095_401897212.200x200.jpg)<br>[时尚防紫外线外套女透气防晒皮肤风衣男薄款户外休闲纯色防晒衣](https://detail.1688.com/offer/617039243727.html)|[石狮市猛虎服饰有限责任公司](https://ssmenghu.1688.com)|35.0|
 |帽子|![](https://cbu01.alicdn.com/img/ibank/O1CN01KtiRig1j8QMyvQ9aR_!!2201485524503-0-cib.200x200.jpg)<br>[针织帽定制logo外贸秋冬保暖防寒帽男女套头毛线帽刺绣加工定做](https://detail.1688.com/offer/742638913681.html)|[宿迁市东冠服饰有限公司](https://shop127239l091sx3.1688.com)|6.0|
 |卫衣绒衫|![](https://cbu01.alicdn.com/img/ibank/O1CN01XlBHIC1h3GfS8cGmQ_!!2869234221-0-cib.200x200.jpg)<br>[秋冬加厚加绒衣服女小香风外套保暖摇粒绒开衫外穿长袖上衣休闲衫](https://detail.1688.com/offer/734879869332.html)|[浙江旺季服饰有限公司](https://zhejiangwangji.1688.com)|48.0|
 |半身裙|![](https://cbu01.alicdn.com/img/ibank/O1CN018RwqsZ2CPwNVmVzfj_!!2622588467-0-cib.200x200.jpg)<br>[言双 秋冬丝绒加厚半身裙女2023冬季新款高腰时髦垂感A字裙9718](https://detail.1688.com/offer/743858176438.html)|[杭州言双服饰有限公司](https://shijianlvtu.1688.com)|59.0|
@@ -56,6 +59,7 @@
 |保暖套装|![](https://cbu01.alicdn.com/img/ibank/O1CN01zDUJuk1b4kAj7yzCs_!!2214248773412-0-cib.200x200.jpg)<br>[羊毛蚕丝本命年红保暖内衣女批发德绒保暖衣套装男士冬季秋衣秋裤](https://detail.1688.com/offer/680082957956.html)|[义乌怡人服饰实力供应商](https://shop85016sp6f3661.1688.com)|29.45|
 |保暖套装|![](https://cbu01.alicdn.com/img/ibank/O1CN01LjAbaS1KEV8KZqa0G_!!2208085551132-0-cib.200x200.jpg)<br>[七匹狼男士内衣纯棉时尚圆领修身贴身秋冬打底秋衣秋裤套装礼盒装](https://detail.1688.com/offer/640608451035.html)|[上海格悦纺织品有限公司](https://shop55625o4m56i01.1688.com)|49.0|
 |保暖套装|![](https://cbu01.alicdn.com/img/ibank/O1CN01y269ET1KEV5Slhr3d_!!2208085551132-0-cib.200x200.jpg)<br>[七匹狼中领内衣男士加绒加厚保暖内衣套装秋冬棉毛衫上衣裤子套装](https://detail.1688.com/offer/669494983252.html)|[上海格悦纺织品有限公司](https://shop55625o4m56i01.1688.com)|69.0|
+|T恤|![](https://cbu01.alicdn.com/img/ibank/O1CN014AOpxN1h3Gf3TQTxH_!!2869234221-0-cib.200x200.jpg)<br>[秋冬季膨体绒打底衫女内搭圆领上衣长袖T恤修身半高领休闲针织衫](https://detail.1688.com/offer/731448301898.html)|[浙江旺季服饰有限公司](https://zhejiangwangji.1688.com)|16.0|
 |T恤|![](https://img.alicdn.com/bao/uploaded/i1/132691477/O1CN01aa0VKl1MmVdhHfpie_!!0-item_pic.jpg_200x200.jpg)<br>[小尼力bf美式重磅纯棉短袖t恤男女基础款纯色oversize打底白色TEE](https://item.taobao.com/item.htm?id=635224828301)|[小尼力街头嘻哈潮流店](https://nelly.taobao.com)|19.0|
 |T恤|![](https://img.alicdn.com/bao/uploaded/i3/132691477/O1CN01pioCJS1MmVY39aWxC_!!0-item_pic.jpg_200x200.jpg)<br>[INS纯棉23韩国ins复古基础款纯色秋季打底衫内搭男女长袖T恤bf风](https://item.taobao.com/item.htm?id=603133486650)|[小尼力街头嘻哈潮流店](https://nelly.taobao.com)|22.0|
 |T恤|![](https://cbu01.alicdn.com/img/ibank/O1CN019bDJvT1DfKyBOcY0v_!!2212611550243-0-cib.200x200.jpg)<br>[三本针 300g重磅纯白色长袖T恤男纯棉简约厚实不透内搭打底衫春秋](https://detail.1688.com/offer/655588184960.html)|[宁波叁言服饰有限公司实力供应商](https://shop0rn1062513224.1688.com)|46.0|
@@ -81,6 +85,7 @@
 |床品套件|![](https://cbu01.alicdn.com/img/ibank/7532402338_1787633015.200x200.jpg)<br>[无印西川裸睡良品天竺棉四件套条纹针织棉4件套全棉床上床笠床单](https://detail.1688.com/offer/522590080915.html)|[南通素艺家居实力供应商](https://shop1443104057113.1688.com)|130.0|
 |多功能组合工具|![](https://cbu01.alicdn.com/img/ibank/O1CN01MrGaWh1GhZoHziBkO_!!2711810654-0-cib.200x200.jpg)<br>[批发户外刀钳EDC工具黑色多功能活动活口扳手组合万用折叠钳子](https://detail.1688.com/offer/684863597557.html)|[阳江市江城区金毅实业有限公司](https://yjjywj001.1688.com)|37.0|
 |厨房剪刀|![](https://cbu01.alicdn.com/img/ibank/O1CN01Uw2ZYR1N9PiCHoOcG_!!2211483651527-0-cib.200x200.jpg)<br>[剪骨头专用厨房剪刀 强力鸡骨剪 多功能剪肉骨杀鱼大剪刀现货批发](https://detail.1688.com/offer/657146732358.html)|[阳江市品恒工贸有限公司实力供应商](https://pinheng.1688.com)|9.48|
+|伞|![](https://cbu01.alicdn.com/img/ibank/O1CN01lbGcea1uQFb8obYS0_!!2206827276031-0-cib.200x200.jpg)<br>[定制晴雨两用自动伞折叠大号防风雨伞批发黑胶防晒遮阳晴雨伞](https://detail.1688.com/offer/702300605092.html)|[浙江天玮雨具有限公司](https://twumbrella.1688.com)|8.6|
 
 ### 箱包系列
 |细分类目|商品图片及链接|商家链接|价格|
@@ -100,5 +105,4 @@
 |--|--|--|--|
 |眼镜片|![](https://cbu01.alicdn.com/img/ibank/O1CN01GiSxkQ2KwvhavUpRJ_!!2828959622-0-cib.200x200.jpg)<br>[蔡司镜片 蔡司智锐 1.50/1.60/1.67/1.74 智锐单光 防蓝光 铂金膜](https://detail.1688.com/offer/671049533903.html)|[深圳市飞信眼镜有限公司](https://feixinglasses.1688.com)|203.0|
 |滤网|![](https://cbu01.alicdn.com/img/ibank/O1CN016w6JWi1OCRtcy1VWt_!!2492481669-0-cib.200x200.jpg)<br>[适用小米米家空气净化器加湿器滤网4Lite/2S/3/Pro H/F1/4pro滤芯](https://detail.1688.com/offer/712432576243.html)|[河北联润汽车配件有限公司](https://lianrun.1688.com)|16.0|
-|台球三指手套|![](https://cbu01.alicdn.com/img/ibank/O1CN01tOhlX11Fe5CoNHQkF_!!1674820511-0-cib.200x200.jpg)<br>[台球手套轻薄透气排汗三指露指手套斯诺克桌球防滑手套单只装XG67](https://detail.1688.com/offer/705229023012.html)|[义乌市谷登服饰有限公司](https://gdglove.1688.com)|8.9|
 |仿真动物玩偶|![](https://cbu01.alicdn.com/img/ibank/9630543554_1464955482.200x200.jpg)<br>[仿真动物模型野生实心塑胶长颈鹿大象犀牛棕熊老虎狮子豹马玩具](https://detail.1688.com/offer/570692992379.html)|[汕头市益鑫晟玩具有限公司实力供应商](https://shop1466096643021.1688.com)|3.47|
